@@ -30,3 +30,5 @@ cd tests && pytest
 ## Architecture
 
 Generator pipeline: `Parse → Analyze → Template → Write`. Each stage is a plugin.
+
+Built by [Felipe Postigo](https://www.felipepostigo.com)
